@@ -1,0 +1,5 @@
+Objective: Final-year CSE student seeking a software developer role.
+Education: B.Tech Computer Science, Roland Institute of Technology.
+Skills: Python, Java, C++, Git, Linux, data structures, OOP.
+Internship: Data analysis with Python at Maincrafts Technology. Completed Python development internship.
+Practice problem solving on LeetCode and CodeChef to strengthen algorithms and coding fundamentals in a fast learning environment with good communication.

@@ -1,0 +1,3 @@
+We are hiring a Python Backend Developer. Requirements: Python, Django, REST APIs, SQL, Git, Docker.
+You will build backend services and APIs in Python, write SQL queries, and use Git daily.
+Knowledge of Docker and REST design is preferred. Python and SQL are required.
